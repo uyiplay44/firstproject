@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.nav-flex-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    height: 100px;
+}
+.left-nav-item{
+    display: flex;
+    
+}
+.left-nav-item-text > h1 {
+    margin-top: 40px;
+    
+}
+.right-nav-item{
+    margin-right: 50px;
+}
+.right-section-1 {
+    display: flex;
+    padding-left: 350px;
+    margin-right: 300;
+}
+form{
+    background-color: rgb(223, 206, 206);
+    width: 100%;
+    height: 400px;
+    padding: 30px 20px;
+}
+.enrolment-container {
+    display: flex;
+    padding-right: 200px;
+}
+.right-enrolment {
+    margin-top: 100px;
+    display: table-column-group;
+    text-justify: auto;
+}
+.name {
+    display: flex;
+}
+.main_componet {
+    display: flex;
+}
+.testimonial-container{
+    background-color: oldlace;
+}
+.testimonial-1 {
+    text-align-last: center;
+    image-resolution: 20px;
+    margin-left: 50px;
+    border-radius: 50px;
+}
+.testimonial-2 {
+    text-align-last: center;
+}
+.testimonial-3 {
+    text-align-last: center;
+}
+.bootcamp-expert-container {
+    display: flex;
+    padding-left: 100px;
+    margin-left: 200px;
+}
+.web-developer {
+    display: flex;
+}
+.Experience {
+    display: flex;
+}
+.subject_section_1 {
+    display: flex;
+}
+
+.section-1-container{
+   background-image: url(./imagines/photobackground.jpeg);
+    height: 35rem;
+    color: #fff;
+    /* display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: blue; */
+}
